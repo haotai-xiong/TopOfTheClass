@@ -1,0 +1,61 @@
+No,Principal Office Cards,Ruling
+1,Late for school three time this week.  ,Move back 2 spaces
+2,Caught talking in Mr Smith's mathematics class.,Move back 1 space
+3,Caught running in the corridor by Mrs Hunt the English teacher.,Move back 1 space
+4,Completed Mr Smith's mathematics homework correctly.,Move forward 3 spaces
+5,Caught talking in Mr Byrne's geography class.,Move back 4 spaces
+6,Joined the school library.,Move forward 3 spaces
+7,Caught cycling in the school yard by Louis the Caretaker.,Move back 4 spaces
+8,Started a paper fight in Mr Smith's mathematics class.,Move back 2 spaces
+9,Joined the basketball team.,Move forward 3 spaces
+10,Forgot to do Mr Duggan's history homework. ,Move back 2 spaces
+11,Do not have Ms Sullivan's science homework finished. ,Move back 2 spaces
+12,Answered all mathematics questions correctly. Keep it up!,Move forward 3 spaces
+13,Stayed back to help the art teacher.,Move forward 4 spaces
+14,Got all your English spelling correct. Keep it up!,Move forward 3 spaces
+15,Mr. Duggan the history teacher caught you talking in class.,Move back 2 spaces
+16,Caught drawing cartoons in Ms Sullivan's science class.,Move back 2 spaces
+17,Caught writing on the school desk.,Move back 5 spaces
+18,Answered mathematics question correctly in class.  Keep it up!,Move forward 3 spaces
+19,Answered history question correctly in class. Keep it up!,Move forward 3 spaces
+20,Answered English question correctly in class. Keep it up!,Move forward 3 spaces
+21,Answered geography question correctly in class. Keep it up!,Move forward 3 spaces
+22,Got an A mark in English Christmas test. Well Done!,Move forward 5 spaces
+23,Got a B mark in geography Christmas test. More work to do!,Move forward 4 spaces
+24,Got a C mark in Irish Christmas test. More Work To do!,Move forward 3 spaces
+25,Got a C mark in mathematics Easter Test. More work to do!,Move forward 3 spaces
+26,Got an A mark in mathematics  Easter test. Well Done!,Move forward 5 spaces
+27,Got an E mark in Geography Easter test. More work to do!,Move back 5 spaces
+28,Got an E mark in Irish Easter test. More work to do!,Move back 5 spaces
+29,Got an F mark in mathematics Easter test. More work to do!,Move back 5 spaces
+30,Jimmy the cleaner reported you for dropping litter in the school yard.,Move back 5 spaces
+31,Ger the caretaker reported you for running in the school yard.,Move back 3 spaces
+32,Late for Ms. Sullivan's science class.,Move back 2 spaces
+33,Late for Mrs Hunt's English class.,Move back 2 spaces
+34,Late for Mr Byrne's geography class.,Move back 2 spaces
+35,Sent home from school for forgetting books.,Move back 4 spaces
+36,Caught messing in history class by Mr Duggan.,Move back 2 spaces
+37,Got an A mark in History Essay. Well Done!,Move forward 5 spaces
+38,Helped Mr Duggan the History teacher clean the Library.,Move forward 5 spaces
+39,You won first prize in school art competition. Well Done!,Move forward 5 spaces
+40,You raised Û20 in the school sponsored walk. Well Done!,Move forward 5 spaces
+41,Larry the bus driver reported you for shouting on the bus.,Move back 4 spaces
+42,Linda the lollipop lady reported you for not crossing the road correctly.,Move back 4 spaces
+43,Linda the lollipop lady reported you for not wearing a helmet when cycling your bike to school.,Move back 4 spaces
+44,Brendan the bin man reported you for littering on the school grounds.,Move back 4 spaces
+45,Ger the caretaker reported you for graffitiing the bike shed. ,Move back 4 spaces
+46,Deirdre the school secretary reported you for using bad language in school.,Move back 4 spaces
+47,Helped Mrs Parker the art teacher with back drop for school play.,Move forward 3 spaces
+48,Entered the local science competition and won 2nd prize. Well Done!,Move forward 3 spaces
+49,Deirdre the school secretary reported you for using your phone in school.,Move back 2 spaces
+50,Ger the caretaker reported you for vandalising the school toilet.,Move back 5 spaces
+51,Ger the caretaker reported you for vandalising the school showers.,Move back 5 spaces
+52,Volunteered at the local pet sanctuary.,Move forward 6 spaces
+53,Joined the school choir.,Move forward 2 spaces
+54,Volunteered at the local homeless shelter.,Move forward 6 spaces
+55,Volunteered at the local old people's home.,Move forward 6 spaces
+56,Participated in the local community clean up day.,Move forward 6 spaces
+57,Called in to visit your elderly next door neighbour.,Move forward 6 spaces
+58,Debbie the dinner lady reported you for not tidying up after your lunch.,Move back 2 spaces
+59,Dave the handyman reported you for kicking in the door of the maintenance room.,Move back 5 spaces
+60,Larry the bus driver reported you for not wearing your seat belt on the bus.,Move back 2 spaces
